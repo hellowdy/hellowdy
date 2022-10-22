@@ -1,6 +1,8 @@
-![gif](https://i.gifer.com/6QmV.gif)
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 
-### Hi there 👋
+### Hi, I'm Elodie 👋
 
 <!--
 **hellowdy/hellowdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
