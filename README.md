@@ -1,3 +1,5 @@
+![gif](https://i.gifer.com/6QmV.gif)
+
 ### Hi there 👋
 
 <!--
