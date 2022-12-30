@@ -4,7 +4,11 @@
 </p>
 
 ### Hi, I'm Elodie 👋
-I'm a developer front-end
+I'm a developer web 
+
+- 🔭 I’m currently working on **Nodes project**
+
+- 🌱 I’m currently learning **Nodes, Javascript, Typescript**
 --------------------
 # Languages and tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
