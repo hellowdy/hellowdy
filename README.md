@@ -2,8 +2,12 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
+<p align="center"><a href="https://www.linkedin.com/in/pro-elodie-mongellaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mongellaz.e@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
-### Hi, I'm Elodie 👋
+### Hi, I'm Elodie 👋 
+
 I'm a developer web 
 
 - 🔭 I’m currently working on **Nodes project**
