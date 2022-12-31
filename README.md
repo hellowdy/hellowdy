@@ -8,7 +8,7 @@
 
 ### Hi, I'm Elodie 👋 
 
-I'm a developer web 
+I've turned to web development, I started to learn in self-taught then I followed several courses to become a web developer front-end.
 
 - 🔭 I’m currently working on **Nodes project**
 
